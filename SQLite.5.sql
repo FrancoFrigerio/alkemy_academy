@@ -1,0 +1,1 @@
+select * from profesor where apellido like '%P_%'

@@ -1,0 +1,1 @@
+select nombre,apellido,fecha_nacimiento from profesor order by profesor.fecha_nacimiento asc
