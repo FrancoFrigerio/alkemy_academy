@@ -1,0 +1,1 @@
+select round(sum(monto),2) as 'Suma total de pagos del pasajero' from pago where idpasajero = 1

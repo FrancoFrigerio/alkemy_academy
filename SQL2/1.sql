@@ -1,0 +1,1 @@
+select count(*) as 'Alumnos de Mecanica'from reto_alkemy.alumnos where alumnos.carrera = 'Mecanica'

@@ -1,0 +1,1 @@
+SELECT idpais, count(*) as 'Cantidad de Pasajeros' from pasajero group by idpais
